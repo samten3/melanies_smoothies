@@ -1,5 +1,5 @@
 #requirements.txt
 snowflake-connector-phyton
 snowflake-snowpark-phyton
-streamlit==1.31.1
+streamlit==24.1.2
 
